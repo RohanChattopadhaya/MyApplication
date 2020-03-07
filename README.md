@@ -1,2 +1,2 @@
 # MyApplication
-aplications on github
+aplications on github trigger
